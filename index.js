@@ -20,4 +20,4 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 
 */
 
-module.exports.Config = require('./modules/config/class');
+module.exports.Config = require('./lib/config/class');

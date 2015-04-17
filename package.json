@@ -4,12 +4,13 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.0",
+  "version": "0.8.2",
   "description": "Environment based configuration loading module with deep merge support.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-config",
   "dependencies": {
-    "superjs": "*"
+    "superjs": "*",
+    "recursive-merge": "*"
   },
   "license": "MIT"
 }
