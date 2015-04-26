@@ -4,7 +4,7 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Environment based configuration loading module with deep merge support.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-config",
