@@ -4,12 +4,13 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Environment based configuration loading module with deep merge support.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/ouro-config",
   "dependencies": {
     "ouro": "*",
+    "ouro-base": "*",
     "recursive-merge": "*"
   },
   "license": "MIT"
